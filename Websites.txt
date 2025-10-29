@@ -1,1 +1,3 @@
 https://www.learnpytorch.io/
+
+https://colab.research.google.com/
