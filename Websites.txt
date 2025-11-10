@@ -10,3 +10,12 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w
 
 Backwardpropagation:
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
+
+visual layers and parameters selections for deep learning
+Neural Network in Your Browser
+https://playground.tensorflow.org/
+
+useful website to creat figs and boxes
+
+https://www.figma.com
