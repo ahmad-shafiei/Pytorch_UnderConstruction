@@ -19,3 +19,8 @@ https://playground.tensorflow.org/
 useful website to creat figs and boxes
 
 https://www.figma.com
+
+
+another useful site in ML and visualazation 
+
+https://madewithml.com/courses/foundations/neural-networks/
