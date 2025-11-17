@@ -29,3 +29,6 @@ https://madewithml.com/courses/foundations/neural-networks/
 for mult-class classification: make blobs
 
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html
+
+See this for when to use accuracy/recall: 
+https://medium.com/data-science/beyond-accuracy-precision-and-recall-3da06bea9f6c
